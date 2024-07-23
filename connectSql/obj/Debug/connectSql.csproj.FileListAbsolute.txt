@@ -1,0 +1,12 @@
+E:\My-Project\chat_app\connectSql\connectSql\bin\Debug\connectSql.exe.config
+E:\My-Project\chat_app\connectSql\connectSql\bin\Debug\connectSql.exe
+E:\My-Project\chat_app\connectSql\connectSql\bin\Debug\connectSql.pdb
+E:\My-Project\chat_app\connectSql\connectSql\bin\Debug\MySql.Data.dll
+E:\My-Project\chat_app\connectSql\connectSql\obj\Debug\connectSql.csproj.AssemblyReference.cache
+E:\My-Project\chat_app\connectSql\connectSql\obj\Debug\connectSql.Form1.resources
+E:\My-Project\chat_app\connectSql\connectSql\obj\Debug\connectSql.Properties.Resources.resources
+E:\My-Project\chat_app\connectSql\connectSql\obj\Debug\connectSql.csproj.GenerateResource.cache
+E:\My-Project\chat_app\connectSql\connectSql\obj\Debug\connectSql.csproj.CoreCompileInputs.cache
+E:\My-Project\chat_app\connectSql\connectSql\obj\Debug\connectSql.csproj.Up2Date
+E:\My-Project\chat_app\connectSql\connectSql\obj\Debug\connectSql.exe
+E:\My-Project\chat_app\connectSql\connectSql\obj\Debug\connectSql.pdb
